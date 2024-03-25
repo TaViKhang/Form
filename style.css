@@ -1,0 +1,38 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; 
+    color: #333;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #428bca; 
+    margin-bottom: 25px;
+}
+
+label {
+    font-weight: 600;
+}
+
+.form-control {
+    border-radius: 4px;
+} 
+
+.btn-primary {
+    background-color: #428bca; 
+    border-color: #428bca; 
+}
+
+.btn-primary:hover {
+    background-color: #357ebd; 
+    border-color: #357ebd; 
+}
